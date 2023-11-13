@@ -2,6 +2,7 @@
 
 ## 팀 소개 About Team
 - 민주수현즈
+[Backend Repository](https://github.com/Ah-MorningDiary/Ah-MorningDiary-backend)
 <br>
 
 | 권수현 | 김민주 | 김민주 | 이수현 |
