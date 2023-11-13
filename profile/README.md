@@ -3,6 +3,7 @@
 ## 팀 소개 About Team
 - 민주수현즈
 - [Backend Repository](https://github.com/Ah-MorningDiary/Ah-MorningDiary-backend)
+- [Frontend Repository](https://github.com/Ah-MorningDiary/Ah-MorningDiary-frontend)
 <br>
 
 | 권수현 | 김민주 | 김민주 | 이수현 |
@@ -27,7 +28,7 @@
 - webSpeechAPI로 사용자가 음성으로 입력한 데이터를 실시간으로 텍스트로 변환하여 사용자 인터페이스의 접근성과 편의성 향상
 - OpenAPI를 사용하여 사용자가 작성한 일기 내용을 기반으로 사용자 맞춤 퀴즈 제공
 
-// 그림
+
 <br>
 
 ### 배포 URL
