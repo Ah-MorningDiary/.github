@@ -71,8 +71,10 @@
 
 
 ### 퀴즈화면
+![c](https://github.com/Ah-MorningDiary/.github/assets/104684033/c3d8fd29-4c15-4f8e-9c8d-ef0c86f1772f)
 
 ### 차트화면
+![ca](https://github.com/Ah-MorningDiary/.github/assets/104684033/6c92aed8-5b2d-443d-ae87-1378b398614c)
 
 
 <br>
