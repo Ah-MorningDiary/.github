@@ -1,4 +1,4 @@
-# 대구를 빛내는 SW해커톤: 앗!침에 일기 Ah-Morning Diary
+# 대구를 빛내는 SW해커톤: 앗!침에 일기 Ah!Morning Diary
 
 ## 팀 소개 About Team
 - 민주수현즈
