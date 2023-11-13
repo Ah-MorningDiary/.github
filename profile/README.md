@@ -2,7 +2,6 @@
 <br>
 
 ## About Team
----
 #### Team 민주 수현즈
 | 권수현 | 김민주 | 김민주 | 이수현 |
 |:-----: | :-----: | :-----: | :-----: |
@@ -10,4 +9,13 @@
 | [<img src="https://github.com/kwonssshyeon.png" width="100px">](https://github.com/kwonssshyeon) | [<img src="https://github.com/minju26.png" width="100px">](https://github.com/minju26) | [<img src="https://github.com/joojjang.png" width="100px">](https://github.com/joojjang) | [<img src="https://github.com/DingX2.png" width="100px">](https://github.com/DingX2) |
 
 ## About Project
----
+
+- 제출 타입 및 주제
+  - S타입. 권리 보호를 위한 SW 개발
+ 
+- 프로젝트 설명
+  - "앗!침에 일기" 서비스는 **치매 예방 및 노인들을 위한 음성 인식 일기 작성 소프트웨어** 입니다. 
+
+## 기술스택
+
+## 시연 영상
