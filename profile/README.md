@@ -17,5 +17,7 @@
   - "앗!침에 일기"는 **치매 예방**을 위한 **음성 인식 일기 작성** 및 **퀴즈 풀이** SW입니다. 
 
 ## 기술스택
+![webSpeechAPI](https://img.shields.io/badge/webSpeechAPI-61DAFB?logo=mdnwebdocs)
+![vite-version](https://img.shields.io/badge/vite-4.4.9-646CFF?logo=vite)
 
 ## 시연 영상
