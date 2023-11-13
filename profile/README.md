@@ -1,9 +1,10 @@
 # 대구를 빛내는 SW해커톤: 앗!침에 일기 Ah! Morning Diary
-
-## 팀 소개 About Team
-- 민주수현즈
 - [Backend Repository](https://github.com/Ah-MorningDiary/Ah-MorningDiary-backend)
 - [Frontend Repository](https://github.com/Ah-MorningDiary/Ah-MorningDiary-frontend)
+<br>
+  
+## 팀 소개 About Team
+- 민주수현즈
 <br>
 
 | 권수현 | 김민주 | 김민주 | 이수현 |
@@ -36,6 +37,7 @@
 
 
 <br>
+
 ## 화면 
 
 ### 로딩페이지
@@ -57,7 +59,7 @@
 
 
 
-### 일기보기 화면
+### 일기 보기 화면
 ![일기보기](https://github.com/Ah-MorningDiary/.github/assets/96682768/ee2efef0-bc63-44b0-9bc2-fde5a98c5a1e)
 
 #### mobile
@@ -71,12 +73,14 @@
 ![모바일_수정하기](https://github.com/Ah-MorningDiary/.github/assets/96682768/4c129cd0-391c-4fb1-83c4-ef3b1462373f)
 
 
-### 퀴즈화면
+### 퀴즈 화면
 ![c](https://github.com/Ah-MorningDiary/.github/assets/104684033/c3d8fd29-4c15-4f8e-9c8d-ef0c86f1772f)
 
-### 차트화면
+### 차트 화면
 ![ca](https://github.com/Ah-MorningDiary/.github/assets/104684033/6c92aed8-5b2d-443d-ae87-1378b398614c)
 
 
 <br>
-## 시연 영상 Prototype video
+
+## 시연 영상 Prototype video  
+https://youtu.be/YK1vSFeAG90  
