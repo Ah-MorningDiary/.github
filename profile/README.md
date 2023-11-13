@@ -38,6 +38,9 @@
 
 <br>
 
+## 프로젝트 한 컷 설명
+![앗!침에 프로젝트 설명](https://github.com/Ah-MorningDiary/.github/assets/104684033/6f338fea-21ab-4084-81e1-8287c67e0ee8)
+
 ## 화면 
 
 ### 로딩페이지
