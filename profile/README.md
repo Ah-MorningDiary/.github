@@ -1,8 +1,10 @@
-# 대구를 빛내는 SW해커톤: 앗!침에 일기 Ah! Morning Diary
+# 2023 대구를 빛내는 SW해커톤: 앗!침에 일기 Ah! Morning Diary
 - [Backend Repository](https://github.com/Ah-MorningDiary/Ah-MorningDiary-backend)
-- [Frontend Repository](https://github.com/Ah-MorningDiary/Ah-MorningDiary-frontend)
+- [Frontend Repository](https://github.com/Ah-MorninngDiary/Ah-MorningDiary-frontend)
 <br>
-  
+
+## :tada:	최우수상 수상작 
+
 ## 팀 소개 About Team
 - 민주수현즈
 <br>
@@ -35,55 +37,10 @@
 ### 배포 URL
 [앗!침에일기](https://ah-diarymorning.netlify.app/)
 
+## 시연 영상 Prototype video  
+https://youtu.be/YK1vSFeAG90  
 
 <br>
 
 ## 프로젝트 한 컷 설명
 ![앗!침에 프로젝트 설명](https://github.com/Ah-MorningDiary/.github/assets/104684033/6f338fea-21ab-4084-81e1-8287c67e0ee8)
-
-## 화면 
-
-### 로딩페이지
-![로딩페이지](https://github.com/Ah-MorningDiary/.github/assets/96682768/aa59c159-878f-46c8-8176-79b08ad33903)
-
-### 홈화면
-![홈화면](https://github.com/Ah-MorningDiary/.github/assets/96682768/02279efa-bf1c-43c8-b098-272f29933c90)
-
-
-### 일기쓰기 화면
-#### desktop
-![일기쓰기](https://github.com/Ah-MorningDiary/.github/assets/96682768/919fc436-6f3d-426e-a4a7-5ae2f123891e)
-
-
-#### mobile
-![모바일_일기쓰기](https://github.com/Ah-MorningDiary/.github/assets/96682768/b4990cfe-23b0-4a04-aadd-35704088bf78)
-![모바일_일기쓰기2](https://github.com/Ah-MorningDiary/.github/assets/96682768/8b39f992-72ab-4e55-9958-aae5decf0334)
-
-
-
-
-### 일기 보기 화면
-![일기보기](https://github.com/Ah-MorningDiary/.github/assets/96682768/ee2efef0-bc63-44b0-9bc2-fde5a98c5a1e)
-
-#### mobile
-![모바일_일기보기](https://github.com/Ah-MorningDiary/.github/assets/96682768/dd545549-f553-48fa-815d-a475170cca0d)
-
-
-### 일기 수정하기 화면
-![수정하기](https://github.com/Ah-MorningDiary/.github/assets/96682768/843d44c9-daba-4c32-b529-ad2e6854f81e)
-
-#### mobile
-![모바일_수정하기](https://github.com/Ah-MorningDiary/.github/assets/96682768/4c129cd0-391c-4fb1-83c4-ef3b1462373f)
-
-
-### 퀴즈 화면
-![c](https://github.com/Ah-MorningDiary/.github/assets/104684033/c3d8fd29-4c15-4f8e-9c8d-ef0c86f1772f)
-
-### 차트 화면
-![ca](https://github.com/Ah-MorningDiary/.github/assets/104684033/6c92aed8-5b2d-443d-ae87-1378b398614c)
-
-
-<br>
-
-## 시연 영상 Prototype video  
-https://youtu.be/YK1vSFeAG90  
